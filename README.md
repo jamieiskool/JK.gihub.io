@@ -8,8 +8,8 @@
     <body>
     <h1>Title</h1>
     <p>
-    Jamie is weird<br>
-    Jamie is weird<br>
+    Jamie is epic<br>
+    Jamie is kool<br>
     </p>
     </body>
 </html>
